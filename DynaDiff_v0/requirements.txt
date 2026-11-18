@@ -1,0 +1,8 @@
+ase>=3.23,<4
+gemmi>=0.7,<0.8
+numpy>=1.24,<3
+scipy>=1.10,<2
+PySide6-Essentials>=6.7,<7
+matplotlib>=3.7,<4
+cmasher>=1.8,<2
+cmcrameri>=1.8,<2
